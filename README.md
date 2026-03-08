@@ -10,6 +10,10 @@
 Факультет / специальность: Информационные системы и технологии
 Университет, Новосибирск | 2026
 
+Сертификаты
+Интеракивный тренажер по SQL
+https://stepik.org/cert/3160669
+
 # Навыки:
 Программирование: Visual Studio, Python, Pandas, Numpy, Jupyter Notebook
 Базы данных: SQL, SQL Server, Transact-SQL, Access
